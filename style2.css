@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.cus-container{
+    border: 2px solid red;
+    height: 737px;
+    display: flex;
+    background-image: url("https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg?w=2000");
+}
+.cus-box{
+    border: 2px solid green;
+    display: flexbox;
+    margin: auto;
+    height: 343px;
+    width: 327px;
+    background-color: #d3adca;
+}
+div h1{
+    margin-left: 40px;
+    
+}
+.cus-box input{
+    display: block;
+    margin: 13px auto;
+    padding: 5px;
+}
+.cus-box button{
+    display: block;
+    margin: 13px auto;
+    padding: 5px;
+}
+
